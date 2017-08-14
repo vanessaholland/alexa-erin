@@ -1,0 +1,22 @@
+ApiIntent {words|Reply}
+ApiIntent {divorced marriage|Reply}
+ApiIntent {married children protection|Reply}
+ApiIntent {living right rights revoke|Reply}
+ApiIntent {i need more questions please|Reply}
+ApiIntent {can you think of another example|Reply}
+ApiIntent {this is harder than anyone could guess|Reply}
+ApiIntent {move forward jump back how long should be|Reply}
+ApiIntent {why did i think this was a good idea|Reply}
+ApiIntent {how did a car get a traffic ticket last week|Reply}
+ApiIntent {what is the advance directive someone can think of child support|Reply}
+ApiIntent {a will power of attorney legal healthcare proxy law firm divorce arrest|Reply}
+ApiIntent {court adoption the baby is yelling so mad police i need advice|Reply}
+ApiIntent {so many examples attorney file separation retirement what else landlord property wreck car violation|Reply}
+ApiIntent {legal matter expert judge trial benefits sick maternity medical emergency lawyer cash money paycheck salary|Reply}
+ApiIntent {this is a long settlement adoption rules law i hope this works union marriage civil case|Reply}
+ApiIntent {a really fun renters is fiduciary longer is relationship and causation common law marriage state done|Reply}
+ApiIntent {rent work this is crazy animal pet abuse abandonment free shelter find food clothing president school labor factory|Reply}
+ApiIntent {my situation ask injury expert find my social security card lost drivers license test paternity child baby kid visitation|Reply}
+ApiIntent {support funds management boss supervisor foreign practice medicine sue lawsuit small claims jury duty juror guilty innocent family families|Reply}
+ApiIntent {view outlook show change move lost found property will dies collect death inherit inheritance trust fund mutual lease sublease living dying|Reply}
+ApiIntent {company corporation owed owes customer complaint violate violation criminal arrested enforcement officer drug estate courthouse civil join military spouse partner insurance coverage|Reply}

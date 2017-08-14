@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Reply",
+          "type": "AMAZON.LITERAL"
+        }
+      ],
+      "intent": "ApiIntent"
+    }
+  ]
+}
